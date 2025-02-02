@@ -1,6 +1,6 @@
-# 👋 Hey there, I'm [Debraj Tadu](https://github.com/Sworaj2002)  
+# 👋 Hey there, I'm [Debraj Tadu](https://github.com/debrajtadu)  
 
-🚀 **Full-Stack Developer | Python Enthusiast | Tech Explorer**  
+🚀 **Full-Stack Developer | Java Enthusiast | Tech Explorer | Data science**  
 
 ---
   
@@ -13,20 +13,15 @@
   
 ## 📌 **Key Projects**  
 
-🎯 **[IPL Victory Forecast](https://github.com/Sworaj2002/IPLVICTORYFORECAST-PROJECT)**  
-> 🏏 Uses predictive modeling & statistical analysis for IPL match outcomes  
-
 🎯 **[Employee Leave Management System](https://github.com/Sworaj2002/Employee-Leave-Management-System)**  
 > 📅 Simplifies employee leave tracking & approvals  
-
-🎯 **[BingeBox](https://github.com/Sworaj2002/BingeBox)**  
-> 🎬 A feature-packed **OTT platform** for seamless content discovery  
+  
 
 ---
 
 ## 🛠️ **Tech Stack**  
 
-| **Languages**     | JavaScript, Python, SQL, Java, PHP, C, HTML, CSS |
+| **Languages**     | Java, Python, SQL, JavaScript, C, HTML, CSS |
 |-------------------|------------------------------------------------|
 | **Frameworks**    | React, Vite, Flask, Django                     |
 | **Databases**     | MySQL                                          |
@@ -35,8 +30,9 @@
   
 ## 🚀 **Currently Learning**  
 ✔ **Advanced React & Vite** – for smooth UI/UX  
-✔ **Best practices in Python development** – to write cleaner & efficient code  
+✔ **Best practices in Java development** – to write cleaner & efficient code  
 ✔ **Database management with MySQL** – for optimized performance  
+✔ **Data Structures and Algorithms(DSA)** – To make advance code and solve realtime Problem
 
 ---
 
@@ -44,10 +40,10 @@
 💡 Open to working on **open-source projects, innovative apps & data-driven solutions**  
 
 📩 **Reach out to me:**  
-🔗 **LinkedIn**: [View Profile](https://www.linkedin.com/in/sworaj-tadu-782886263/)  
-💻 **GitHub**: [Visit My GitHub](https://github.com/Sworaj2002)  
-✉ **Email**: [sworajtadu@gmail.com](mailto:sworajtadu@gmail.com)  
-🎯 **HackerRank**: [Check My Profile](https://www.hackerrank.com/profile/sworajtadu)  
+🔗 **LinkedIn**: [View Profile](linkedin.com/in/debaraj-tadu-95a2a9294)  
+💻 **GitHub**: [Visit My GitHub](https://github.com/debrajtadu)  
+✉ **Email**: [sworajtadu@gmail.com](mailto:debrajtadu4@gmail.com)  
+🎯 **HackerRank**: [Check My Profile]()  
 
 ---
 
