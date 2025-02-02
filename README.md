@@ -13,7 +13,7 @@
   
 ## 📌 **Key Projects**  
 
-🎯 **[Employee Leave Management System](https://github.com/Sworaj2002/Employee-Leave-Management-System)**  
+🎯 **[Employee Leave Management System](https://github.com/debrajtadu/Employee_Leave_Management_System)**  
 > 📅 Simplifies employee leave tracking & approvals  
   
 
