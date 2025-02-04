@@ -47,14 +47,14 @@
 📩 **Reach out to me:**  
 🔗 **LinkedIn**: [View Profile](https://linkedin.com/in/debaraj-tadu-95a2a9294)  
 💻 **GitHub**: [Visit My GitHub](https://github.com/debrajtadu)  
-✉ **Email**: [sworajtadu4@gmail.com](mailto:debrajtadu4@gmail.com)  
+✉ **Email**: [debrajtadu4@gmail.com](mailto:debrajtadu4@gmail.com)  
 🎯 **HackerRank**: [Check My Profile]()
 
 ---
 
 ## 🎖 **Certifications & Achievements**  
-🏆 **Virtual Internship Certification** – LearnSmasher  
-🏆 **AWS for Administrators Certification** – Infosys  
+🏆 **Java Programming** – Udemy  
+🏆 ** Crash Course on Python** – Google on Coursera  
 🏆 **Programming Data Structures & Algorithms** – NPTEL  
 
 ---
