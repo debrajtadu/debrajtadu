@@ -54,7 +54,7 @@
 
 ## 🎖 **Certifications & Achievements**  
 🏆 **Java Programming** – Udemy  
-🏆 ** Crash Course on Python** – Google on Coursera  
+🏆 **Crash Course on Python** – Google on Coursera  
 🏆 **Programming Data Structures & Algorithms** – NPTEL  
 
 ---
